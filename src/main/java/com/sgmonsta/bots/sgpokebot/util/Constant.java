@@ -1,0 +1,60 @@
+package com.sgmonsta.bots.sgpokebot.util;
+
+import java.util.Map;
+
+public class Constant {
+    public static final String POKEMON_BOT_TOKEN = "7089028606:AAGrrN-vi6uDNX0fcu7I85lOhR2CqGGhrRo";
+
+    public static final Map<String, String> SHOPEE_LINKS = Map.ofEntries(
+            Map.entry("Sleeved Boosters: TWM", "https://sg.shp.ee/RGzUUww"),
+            Map.entry("Sleeved Boosters: SSP", "https://sg.shp.ee/yr2R496"),
+            Map.entry("Sleeved Boosters: Silver Tempest", "https://sg.shp.ee/j3oAKxi"),
+            Map.entry("Normal ETBs: SV1 Koraidon", "https://sg.shp.ee/TWgejR3"),
+            Map.entry("Normal ETBs: SV1 Miraidon", "https://sg.shp.ee/soFrv1Z"),
+            Map.entry("Normal ETBs: PAF", "https://sg.shp.ee/PBMVPvX"),
+            Map.entry("Normal ETBs: OBF", "https://sg.shp.ee/Pdm1jtn"),
+            Map.entry("PC ETBs: SCR", "https://sg.shp.ee/wCGBLrx"),
+            Map.entry("PC ETBs: SFA", "https://sg.shp.ee/R7zT8NH"),
+            Map.entry("PC ETBs : PE", "https://s.shopee.sg/50KqVmskaY"),
+            Map.entry("PC ETBs : SS", "https://s.shopee.sg/1B87xHSf3J"),
+            Map.entry("PC ETBs : PF", "https://s.shopee.sg/9AAPU0WrVg"),
+            Map.entry("PC ETBs : PF (Roaring Moon)", "https://s.shopee.sg/7V2BUyYcNk"),
+            Map.entry("PC ETBs : PF (iron Valiant)", "https://s.shopee.sg/6pmUhmIKwN"),
+            Map.entry("Paldean Fates: Booster Bundle", "https://sg.shp.ee/Ynv8LqN"),
+            Map.entry("Prismatic Evolution: Booster Bundle", "https://sg.shp.ee/8mGZKdG"),
+            Map.entry("Maxsoft Prismatic Evolution: Booster Bundle", "https://s.shopee.sg/AA2wfLtSqG"),
+            Map.entry("Paldean Fates: Premium Collection (Meowscarada ex)", "https://sg.shp.ee/v4C6reK"),
+            Map.entry("Paldean Fates: Premium Collection (Skeledirge ex)", "https://sg.shp.ee/ZPn4DEk"),
+            Map.entry("Paldean Fates: Premium Collection (Quaquaval ex)", "https://sg.shp.ee/rewadBF"),
+            Map.entry("Booster Box: SSP", "https://sg.shp.ee/GdnVNid"),
+            Map.entry("Booster Box: Silver Tempest", "https://sg.shp.ee/wU5rFES"),
+            Map.entry("Booster Box: OBF", "https://sg.shp.ee/WLftoHP"),
+            Map.entry("Booster Box: PAL", "https://sg.shp.ee/3DxZT6Z"),
+            Map.entry("Prismatic surprise box", "https://s.shopee.sg/2B0f8gMQMQ"),
+            Map.entry("Prismatic mini tin - Umbreon", "https://s.shopee.sg/LZ0xQMrcZ"),
+            Map.entry("Prismatic mini tin - Sylveon", "https://s.shopee.sg/7zyS5Wxk3E"),
+            Map.entry("Prismatic mini tin - Espeon", "https://s.shopee.sg/1LRY9InK0w"),
+            Map.entry("Prismatic mini tin - Vaporeon", "https://s.shopee.sg/5AeGiMKAAr"),
+            Map.entry("Prismatic mini tin - Flareon", "https://s.shopee.sg/2B0f8rEGi0"),
+            Map.entry("Prismatic mini tin - Jolteon", "https://s.shopee.sg/50KqW4z9y6"),
+            Map.entry("Prismatic mini tin - Glaceon", "https://s.shopee.sg/3VW2jL3ZYb"),
+            Map.entry("Prismatic mini tin - Leafon", "https://s.shopee.sg/705utmlvSn"),
+            Map.entry("151 Mini-tins: Scyther", "https://sg.shp.ee/DDNQRfF"),
+            Map.entry("151 Mini-tins: Dragonite", "https://sg.shp.ee/1PDAx6z"),
+            Map.entry("151 Mini-tins: Arcanine", "https://sg.shp.ee/e9cM2BR"),
+            Map.entry("151 Mini-tins: Slowpoke", "https://sg.shp.ee/g9RbxGJ"),
+            Map.entry("151 Mini-tins: Machamp", "https://sg.shp.ee/m5cwY7w"),
+            Map.entry("151 Mini-tins: Electabuzz", "https://sg.shp.ee/v4pu9BT"),
+            Map.entry("151 Mini-tins: Kadabra", "https://sg.shp.ee/Wf9hc5A"),
+            Map.entry("151 Mini Tin (Dragonite)", "https://sg.shp.ee/6e75rnL"),
+            Map.entry("151 UPC", "https://s.shopee.sg/8pXZ5UAsSq"),
+            Map.entry("Terapagos UPC", "https://sg.shp.ee/2yQHftq"),
+            Map.entry("Collection Boxes: Bloodmoon Ursaluna ex Box", "https://sg.shp.ee/bA83rK1"),
+            Map.entry("Collection Boxes: Grand Adventure Collection", "https://sg.shp.ee/B2JqFn9"),
+            Map.entry("Prismatic binder collection", "https://s.shopee.sg/AKMMrwTPT1"),
+            Map.entry("Prismatic poster set", "https://s.shopee.sg/9f6g4kwZMK"),
+            Map.entry("Prismatic tech sticker - Glaceon", "https://s.shopee.sg/BFalKMe92"),
+            Map.entry("Prismatic tech sticker - Slyveon", "https://s.shopee.sg/4q1QJxBzGw"),
+            Map.entry("Prismatic tech sticker - Leafeon", "https://s.shopee.sg/4fi07gYm6S")
+            );
+}
