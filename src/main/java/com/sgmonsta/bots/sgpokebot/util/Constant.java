@@ -4,7 +4,7 @@ import java.util.Map;
 
 public class Constant {
     public static final String POKEMON_BOT_TOKEN = "7089028606:AAGrrN-vi6uDNX0fcu7I85lOhR2CqGGhrRo";
-
+    public static final Integer SHOPEE_CHAT_ID = 435;
     public static final Map<String, String> SHOPEE_LINKS = Map.ofEntries(
             Map.entry("Sleeved Boosters: TWM", "https://sg.shp.ee/RGzUUww"),
             Map.entry("Sleeved Boosters: SSP", "https://sg.shp.ee/yr2R496"),
